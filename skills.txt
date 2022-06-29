@@ -1,0 +1,1 @@
+skills: Terminal, Git, API, Postman, SQL, Test cases
